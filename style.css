@@ -1,0 +1,75 @@
+html,bady{
+	margin: 0 auto;
+	padding:0;
+	font-family: "Microsoft YaHei", "微软雅黑", tahoma, arial, simsun, "宋体";
+}
+div{
+	height:auto;
+	overflow:hidden;
+}
+h1{
+	font-size:1em;
+	display:block;
+}
+h2,p{
+	font-size:0.5em;
+}
+#proj p
+{
+	text-indent:7em;
+	white-space:pre;
+}
+.info{
+	color:#999;
+}
+.blue{
+	color:#5298ce;
+}
+#first{
+	font-size: 7.5em;
+	margin-bottom: -30px;
+}
+img{
+	width:60%;
+}
+#second{
+	font-size:3.55em;
+	margin: -10px 60px -10px 0px;
+}
+.title{
+	font-family:"Comic Sans MS", cursive;
+	margin-right:25px;
+	clear:both;
+}
+h1:first-letter{
+	font-size:1.5em;
+}
+#container{
+	width:980px;
+	margin:0 auto;
+	padding:100px 0px 100px 0px;
+	/*background:url(bg2.png) no-repeat;*/
+	/*min-height:1500px;*/
+}
+#left{
+	width: 20%;
+	float: left;
+	text-align: right;
+	padding-right: 40px;
+}
+#right{
+	width:70%;
+	text-align:left;
+	padding:10px 0px 50px 40px;
+	border-left:dotted #5298ce 5px;
+}
+.left{
+	width:15%;
+	float:left;
+	border-right:4px #5298ce solid;
+	margin-right:15px;
+}
+.right br
+{
+	text-indent:2em;
+}
